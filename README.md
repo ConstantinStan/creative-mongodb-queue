@@ -1,4 +1,4 @@
-# MongoDB Queue 🚀
+# Creative MongoDB Queue
 
 A lightweight **at‑least‑once** job‑queue backed by MongoDB 6‑8 and the official Node driver ≥ 6.0.
 

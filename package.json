@@ -6,8 +6,8 @@
     "exports": { ".": "./queue.js" },
     "files": [ "queue.js", "README.md", "LICENSE" ],
     "keywords": [ "mongodb", "queue", "job", "fifo", "worker" ],
-    "repository": { "type": "git", "url": "git+https://github.com/yourname/creative-mongodb-queue.git" },
-    "author": "Your Name <you@example.com>",
+    "repository": { "type": "git", "url": "git+https://github.com/constantinstan/creative-mongodb-queue.git" },
+    "author": "Constantin Stan",
     "license": "MIT",
     "engines": { "node": ">=18" },
     "dependencies": {

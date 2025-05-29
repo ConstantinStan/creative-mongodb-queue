@@ -1,6 +1,6 @@
 {
     "name": "creative-mongodb-queue",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Lightweight at-least-once job queue backed by MongoDB 6-8.",
     "type": "module",
     "exports": {

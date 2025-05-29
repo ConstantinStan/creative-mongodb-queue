@@ -39,7 +39,7 @@ The library is ESM‑first but also works under CommonJS (`require`).
 \## Installation
 
 ```bash
-npm i mongodb-queue-lite    # package name in your project
+npm i creative-mongodb-queue   # package name in your project
 ```
 
 ---

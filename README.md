@@ -48,7 +48,7 @@ npm i creative-mongodb-queue   # package name in your project
 
 ```js
 import { MongoClient } from "mongodb";
-import createQueue      from "mongodb-queue-lite";   // path/to/queue.js if local
+import createQueue      from "creative-mongodb-queue";   // path/to/queue.js if local
 
 const client = new MongoClient(process.env.MONGODB_URI);
 await client.connect();
